@@ -1,0 +1,8 @@
+.scullBuffer.ko.cmd
+.scullBuffer.mod.o.cmd
+.scullBuffer.o.cmd
+.tmp_versions/
+consumer
+producer
+scullBuffer.ko
+scullBuffer.mod.c
